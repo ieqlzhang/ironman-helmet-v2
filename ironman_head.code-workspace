@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "arduino_ide"
+		},
+		{
+			"path": "include"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "test"
+		}
+	],
+	"settings": {}
+}

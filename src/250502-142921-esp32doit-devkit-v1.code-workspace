@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../250502-142921-esp32doit-devkit-v1"
+		},
+		{
+			"name": "ironman_head",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
