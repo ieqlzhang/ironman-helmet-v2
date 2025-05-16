@@ -5,6 +5,7 @@
 .vscode/ipch
 # Environment files
 .env
+include/credentials.h
 
 # Build artifacts
 build/
